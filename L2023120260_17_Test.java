@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import static org.junit.Assert.assertEquals;
 
+// 目前的测试用例设计良好，覆盖了绝大多数典型场景。通过补充极端输入和性能测试，可以进一步完善测试覆盖率和方法的鲁棒性。
 /**
  * @Description
  * 用于验证 Solution17 类中的 findRepeatedDnaSequences 方法。
