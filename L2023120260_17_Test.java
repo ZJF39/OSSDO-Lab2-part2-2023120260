@@ -16,7 +16,7 @@ import static org.junit.Assert.assertEquals;
  * 3. 组合覆盖：考虑不同字符组合的情况，确保各种可能的字符排列都被测试到。
  */
 
-public class Solution17Test {
+public class L2023120260_17_Test {
 
     /**
      * 测试方法：testFindRepeatedDnaSequences_WithMultipleRepeats
