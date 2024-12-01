@@ -1,5 +1,5 @@
 import java.util.*;
-
+// 已检查 超过 11% 的提交
 /*
  * @Description
  * 重复 DNA 序列
